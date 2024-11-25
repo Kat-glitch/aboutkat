@@ -78,5 +78,5 @@ const subheadings = subheadingsData[activeMenuItem];
           </div>
           </>
     );
-  }
-}
+  };
+};
